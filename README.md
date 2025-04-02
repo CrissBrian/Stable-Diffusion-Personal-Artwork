@@ -3,10 +3,10 @@
 This repository showcases a collection of personal artworks created using Stable Diffusion.
 ## Table of Contents
 
-- [🎨 Styled QR Codes](#🎨-styled-qr-codes)
-- [🖌️ WLOP Style Transformation](#🖌️-wlop-style-transformation)
-- [🖼️ Stable Diffusion Artwork](#🖼️-stable-diffusion-artwork)
-- [🌟 Others](#🌟-others)
+- [🎨 Styled QR Codes](#styled-qr-codes)
+- [🖌️ WLOP Style Transformation](#wlop-style-transformation)
+- [🖼️ Stable Diffusion Artwork](#stable-diffusion-artwork)
+- [🌟 Others](#others)
 
 ## 🎨 Styled QR Codes
 
